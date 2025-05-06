@@ -15,7 +15,7 @@ This project was built using **UIKit** and demonstrates key iOS development conc
 - Supports **dark mode UI**.
 - Retrieves data from the **OpenWeatherMap API**.
 - Implements the **delegate pattern** for architecture.
-- ⚙Accurate parsing of JSON responses using `Codable`.
+- Accurate parsing of JSON responses using `Codable`.
 
 ---
 
