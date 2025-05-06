@@ -30,3 +30,9 @@ This project was built using **UIKit** and demonstrates key iOS development conc
 - GCD (Grand Central Dispatch)
 
 ---
+
+## Screenshots
+
+| Light Mode | Dark Mode | Search by City |
+|------------|-----------|-----------------|
+| ![Light Mode](Screenshots/light-mode.png) | ![Dark Mode](Screenshots/dark-mode.png) | ![Search by City](Screenshots/search-city.png) |
